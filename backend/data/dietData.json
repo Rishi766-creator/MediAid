@@ -1,0 +1,102 @@
+{
+  "Fever": {
+    "Recommended": ["Rice porridge", "Boiled vegetables", "Bananas", "Soups", "Coconut water", "Oats", "Boiled eggs"],
+    "Avoid": ["Fried foods", "Spicy curries", "Caffeine", "Cold drinks"],
+    "Tips": "Stay hydrated, take light meals, and get adequate rest."
+  },
+  "Cold": {
+    "Recommended": ["Warm water", "Ginger", "Honey", "Tulsi leaves", "Soup", "Lemon tea"],
+    "Avoid": ["Cold beverages", "Ice cream", "Fried snacks"],
+    "Tips": "Drink warm liquids and rest. Steam inhalation helps relieve congestion."
+  },
+  "Chest Pain": {
+    "Recommended": ["Oats", "Green leafy vegetables", "Nuts", "Olive oil", "Fish", "Fruits"],
+    "Avoid": ["Fried foods", "Red meat", "Salt", "Sugary foods"],
+    "Tips": "Avoid stress and eat heart-friendly foods rich in omega-3."
+  },
+  "Vomiting": {
+    "Recommended": ["Bananas", "Apple sauce", "Coconut water", "Rice porridge", "Ginger tea"],
+    "Avoid": ["Spicy foods", "Oily food", "Caffeine", "Alcohol"],
+    "Tips": "Drink fluids frequently to prevent dehydration."
+  },
+  "Cough": {
+    "Recommended": ["Warm water", "Honey", "Ginger", "Turmeric milk", "Soup"],
+    "Avoid": ["Cold food", "Fried snacks", "Ice cream"],
+    "Tips": "Keep your throat moist and avoid exposure to dust or smoke."
+  },
+  "Eye Strain": {
+    "Recommended": ["Carrots", "Spinach", "Eggs", "Sweet potatoes", "Fish", "Almonds"],
+    "Avoid": ["Junk food", "Sugary snacks"],
+    "Tips": "Follow the 20-20-20 rule and eat foods rich in vitamin A and omega-3."
+  },
+  "Acidity": {
+    "Recommended": ["Oats", "Bananas", "Coconut water", "Green vegetables", "Whole grains"],
+    "Avoid": ["Coffee", "Citrus fruits", "Fried food", "Spicy dishes"],
+    "Tips": "Eat small meals frequently and avoid lying down immediately after eating."
+  },
+  "Digestion Problem": {
+    "Recommended": ["Curd", "Papaya", "Oats", "Green vegetables", "Soup"],
+    "Avoid": ["Spicy food", "Fried snacks", "Carbonated drinks"],
+    "Tips": "Eat fiber-rich foods and drink plenty of water."
+  },
+  "Allergy": {
+    "Recommended": ["Fruits", "Leafy greens", "Turmeric", "Honey", "Ginger"],
+    "Avoid": ["Dairy (if allergic)", "Processed foods", "Artificial colors"],
+    "Tips": "Avoid known allergens and support immunity with vitamin C and zinc."
+  },
+  "Eye Related": {
+    "Recommended": ["Carrots", "Spinach", "Broccoli", "Eggs", "Sweet potatoes", "Fish"],
+    "Avoid": ["Junk food", "Fried items"],
+    "Tips": "Eat foods rich in vitamin A and take regular breaks from screens."
+  },
+  "Breathlessness": {
+    "Recommended": ["Beetroot", "Spinach", "Pomegranate", "Fish", "Eggs", "Oats"],
+    "Avoid": ["Fried foods", "Processed meats", "Sugary drinks"],
+    "Tips": "Eat iron and nitrate-rich foods to improve oxygen levels."
+  },
+  "Kidney Disease": {
+    "Recommended": ["Apples", "Cabbage", "Cauliflower", "Bell peppers", "Garlic", "Olive oil"],
+    "Avoid": ["High-sodium foods", "Bananas", "Red meat", "Dairy"],
+    "Tips": "Limit salt and potassium intake, and stay hydrated under doctor guidance."
+  },
+  "Liver Disease": {
+    "Recommended": ["Leafy greens", "Garlic", "Apples", "Oats", "Berries", "Fish"],
+    "Avoid": ["Alcohol", "Fried food", "Sugar", "Processed meat"],
+    "Tips": "Eat foods that support detoxification and avoid fatty meals."
+  },
+  "Neuro Diseases": {
+    "Recommended": ["Fish", "Walnuts", "Spinach", "Berries", "Whole grains", "Turmeric"],
+    "Avoid": ["Sugary foods", "Fried snacks", "Processed food"],
+    "Tips": "Consume omega-3, antioxidants, and maintain brain-friendly nutrition."
+  },
+  "PCOS": {
+    "Recommended": ["Leafy greens", "Berries", "Fish", "Eggs", "Oats", "Nuts", "Broccoli"],
+    "Avoid": ["Sugar", "White bread", "Processed foods", "Soft drinks"],
+    "Tips": "Follow a low-glycemic diet and stay active to regulate hormones."
+  },
+  "Dental Problem": {
+    "Recommended": ["Milk", "Cheese", "Yogurt", "Leafy greens", "Apples", "Carrots"],
+    "Avoid": ["Sugary snacks", "Soda", "Sticky foods"],
+    "Tips": "Eat calcium-rich foods and maintain good oral hygiene."
+  },
+  "Diabetes": {
+    "Recommended": ["Oats", "Eggs", "Green tea", "Brown rice", "Vegetables", "Fish", "Tofu", "Whole wheat roti"],
+    "Avoid": ["Sugar", "White bread", "Fried foods", "Soft drinks"],
+    "Tips": "Eat foods with low glycemic index and high fiber."
+  },
+  "Hypertension": {
+    "Recommended": ["Banana", "Oats", "Brown rice", "Vegetables", "Fish", "Soup"],
+    "Avoid": ["Salt", "Pickles", "Processed foods", "Caffeine"],
+    "Tips": "Reduce sodium intake and stay hydrated."
+  },
+  "Anemia": {
+    "Recommended": ["Spinach", "Apple", "Lentils", "Chicken liver", "Leafy greens", "Fish", "Beetroot"],
+    "Avoid": ["Tea after meals", "Alcohol", "Junk food"],
+    "Tips": "Eat iron-rich foods and take vitamin C to improve absorption."
+  },
+  "Default": {
+    "Recommended": ["Whole grains", "Fruits", "Vegetables", "Lean proteins", "Nuts", "Water"],
+    "Avoid": ["Junk food", "Sugary drinks"],
+    "Tips": "Maintain a balanced diet and regular exercise."
+  }
+}
