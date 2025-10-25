@@ -14,7 +14,7 @@ router.get("/", async (req, res) => {
       location: {
         $near: {
           $geometry: { type: "Point", coordinates: [parseFloat(lng), parseFloat(lat)] },
-          $maxDistance:50000, // meters
+          $maxDistance:distance * 1000 , // meters
         },
       },
     });
